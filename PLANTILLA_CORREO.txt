@@ -1,0 +1,18 @@
+Hola estimado $NOMBRE_PERSONA, tu estimacion es la siguiente:
+
+Indices:
+	Semetral = $INDICE_SEMESTRAL	
+	Acumulado = $INDICE_ACUMULADO
+
+Puntos:
+	Acumulado = $PUNTOS_ACUMULADO
+
+CREDITOS:
+	Semetral = $CREDITOS_SEMESTRAL	
+	Acumulado = $CREDITOS_ACUMULADO
+
+
+TODO ESTO ES POSIBLE SI OBTIENES LAS SIGUIENTES CALIFICACIONES EN LAS MATERIAS SIGUIENTES EN:
+
+
+
